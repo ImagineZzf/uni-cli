@@ -10,10 +10,19 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "uni-cli"
+    "uni-cli",
+    "uni-app"
   ],
-  "author": "FrankeZ",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ImagineZzf/uni-cli.git"
+  },
+  "author": "FrankeZ (https://github.com/ImagineZzf)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ImagineZzf/uni-cli/issues"
+  },
+  "homepage": "https://github.com/ImagineZzf/uni-cli",
   "dependencies": {
     "chalk": "^3.0.0",
     "commander": "^4.0.1",
